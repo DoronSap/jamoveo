@@ -78,7 +78,7 @@ const Live_Page = () => {
 
                     return newIndex;
                 });
-            }, 800); // slower speed
+            }, 800);
         } else {
             clearInterval(intervalRef.current);
         }
@@ -110,7 +110,7 @@ const Live_Page = () => {
                 {/* Logo */}
                 <Box display="flex" justifyContent="center" mb={3}>
                     <img
-                        src="../public/jamoveo.png"
+                        src="/jamoveo.png"
                         alt="Logo"
                         style={{ width: '200px' }}
                     />
