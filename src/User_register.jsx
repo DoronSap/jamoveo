@@ -52,8 +52,7 @@ export default function User_register() {
                 >
                     {/* Logo */}
                     <img
-                        src="../public/jamoveo.png"
-                        alt="Logo"
+                        src="<img src="/jamoveo.png" alt="Logo"
                         style={{ width: '200px', marginBottom: '20px' }}
                     />
 
