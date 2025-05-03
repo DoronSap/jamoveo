@@ -45,7 +45,7 @@ export default function Admin_register() {
                 >
                     {/* Logo */}
                     <img
-                        src="../public/jamoveo.png"
+                        src="/jamoveo.png"
                         alt="Logo"
                         style={{ width: '150px', marginBottom: '20px' }}
                     />
