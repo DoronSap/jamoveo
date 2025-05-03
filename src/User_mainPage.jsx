@@ -41,9 +41,9 @@ const User_mainPage = () => {
                 {/* Logo */}
                 <Box display="flex" justifyContent="center" mb={4}>
                     <img
-                        src="../public/jamoveo.png"
+                        src="/jamoveo.png"
                         alt="Logo"
-                        style={{ width: '150px' }}
+                        style={{ width: '200px' }}
                     />
                 </Box>
 
