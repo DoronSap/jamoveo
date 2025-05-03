@@ -7,7 +7,7 @@ import {
     Typography,
     Box
 } from '@mui/material';
-import { demo } from './usersdb'; // adjust the path if needed
+import { demo } from './usersdb';
 
 export default function User_login() {
     const [username, setUsername] = useState('');
@@ -53,7 +53,7 @@ export default function User_login() {
                 >
                     {/* Logo */}
                     <img
-                        src="../public/jamoveo.png"
+                        src="/jamoveo.png"
                         alt="Logo"
                         style={{ width: '200px', marginBottom: '20px' }}
                     />
