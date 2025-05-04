@@ -97,7 +97,7 @@ const Admin_mainPage = () => {
                         align="center"
                         sx={{ color: '#ff87ab', mb: 3 }}
                     >
-                        Search
+                        Search any song...
                     </Typography>
 
                     <TextField
