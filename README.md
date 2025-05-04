@@ -1,12 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Jamoveo is a real-time, web-based application that allows multiple users to sing and 
+follow along with lyrics simultaneously — all synchronized by an admin.  
+The app is designed for group singing, jam sessions, or karaoke-style activities, 
+especially across different devices. 
+The app includes two distinct entry points via separate URLs: 
+• User Registration – For regular participants who will view the lyrics and sing 
+along. 
+• Admin Registration – For the session leader who selects the song and controls 
+the flow.
