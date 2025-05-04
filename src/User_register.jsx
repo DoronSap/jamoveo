@@ -13,7 +13,7 @@ import {
 } from '@mui/material';
 import { demo } from './usersdb';
 
-const instruments = ['Guitar', 'Piano', 'Drums', 'Violin', 'Bass', 'Vocals'];
+const instruments = ['Guitar', 'Saxophone', 'Drums', 'Keyboard', 'Bass', 'Vocals','Other'];
 
 export default function User_register() {
     const [username, setUsername] = useState('');
