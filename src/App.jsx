@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import User_register from './User_register.jsx'; // adjust paths
+import User_register from './User_register.jsx'; 
 import User_login from './User_login.jsx';
 import User_mainPage from "./User_mainPage.jsx";
 import Admin_register from "./Admin_register.jsx";
